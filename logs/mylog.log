@@ -1,0 +1,8 @@
+[INFO ] 2022-07-25 10:50:23.418 [main] BaseClass - First City Enterd
+[INFO ] 2022-07-25 10:50:24.978 [main] BaseClass - First city selected correctly
+[INFO ] 2022-07-25 10:50:25.484 [main] BaseClass - Second City Enterd
+[INFO ] 2022-07-25 10:50:25.859 [main] BaseClass - Second city selected correctly
+[INFO ] 2022-07-25 10:50:26.295 [main] BaseClass - Calender open for select next week  date 
+[INFO ] 2022-07-25 10:50:26.376 [main] BaseClass - Calender next week date selected
+[WARN ] 2022-07-25 10:50:26.540 [main] BaseClass - Search button clicked for required fligt information
+[WARN ] 2022-07-25 10:50:32.833 [main] BaseClass - Minimum Flight Ticket Selected
